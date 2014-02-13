@@ -1,11 +1,2 @@
-welcome-project-client
-======================
+The Client portion of the Store Finder Sample Project at https://github.com/feedhenry-training/Store-Finder-FH3-Project
 
-The main frameworks & tools used by the client app are:
-
-* Backbone.js (http://backbonejs.org/)
-* Bootstrap 3 (http://getbootstrap.com/)
-* Jasmine (http://pivotal.github.io/jasmine/)
-
-
-For more details about how to develop and build the client app, please check the README file in the client/ directory.
